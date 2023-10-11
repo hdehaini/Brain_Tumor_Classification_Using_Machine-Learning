@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+./Brain Tumor/
+
 # Distribution / packaging
 .Python
 build/
