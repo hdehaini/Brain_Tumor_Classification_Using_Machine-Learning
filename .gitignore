@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-./Brain Tumor/
+Brain_Tumor_img/
 
 # Distribution / packaging
 .Python
